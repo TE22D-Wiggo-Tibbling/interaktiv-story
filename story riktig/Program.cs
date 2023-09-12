@@ -110,6 +110,7 @@ if (scene == "yoghurt")
         if (yoghurt == "fly")
         {
             System.Console.WriteLine(" I panik försöker du ställa dig up för att springa\n Tyvär var yoghurten för tung och du sitter fast\n Medans du sitter där tänker du hur pinsamt det är att dö av att drunkna i yoghurt");
+            System.Console.WriteLine(@"~~~~~~~~~~~~~~\(°O° )/~~~~~~~~~~~~~~");
             Thread.Sleep(15000);
             System.Environment.Exit(1);
         }
