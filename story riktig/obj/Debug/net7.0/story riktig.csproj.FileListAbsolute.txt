@@ -1,0 +1,14 @@
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\story riktig.GeneratedMSBuildEditorConfig.editorconfig
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\story riktig.AssemblyInfoInputs.cache
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\story riktig.AssemblyInfo.cs
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\story riktig.csproj.CoreCompileInputs.cache
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\bin\Debug\net7.0\story riktig.exe
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\bin\Debug\net7.0\story riktig.deps.json
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\bin\Debug\net7.0\story riktig.runtimeconfig.json
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\bin\Debug\net7.0\story riktig.dll
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\bin\Debug\net7.0\story riktig.pdb
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\story riktig.dll
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\refint\story riktig.dll
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\story riktig.pdb
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\story riktig.genruntimeconfig.cache
+G:\Min enhet\prog 1 med micke B!!\story riktig\story riktig\obj\Debug\net7.0\ref\story riktig.dll
